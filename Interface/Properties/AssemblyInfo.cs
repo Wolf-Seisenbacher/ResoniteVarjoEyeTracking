@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ResoniteVarjoIntegration")]
-[assembly: AssemblyDescription("A WCFace Integration for NeosVR. Provides robust eye and face tracking using an RGB webcamera")]
+[assembly: AssemblyDescription("Varjo eye tracking for Resonite")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hiatus Labs")]
 [assembly: AssemblyProduct("ResoniteVarjoIntegration")]
