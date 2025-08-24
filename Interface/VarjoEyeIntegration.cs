@@ -54,7 +54,7 @@ public class VarjoEyeIntegration : ResoniteMod
 	public override void OnEngineInit()
 	{
 		config = GetConfiguration();
-		new Harmony("net.dfgHiatus.ResoniteVarjoEyeTracking").PatchAll();
+		new Harmony("seisenbacher.wolf.varjoeyetracking").PatchAll();
 		tracker = new VarjoNativeInterface();
 
 		if (!tracker.Initialize())
