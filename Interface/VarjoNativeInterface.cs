@@ -55,7 +55,7 @@ public class VarjoNativeInterface : VarjoInterface
 
     private bool LoadLibrary()
     {;
-        var path = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + "\\TrackingLibs\\VarjoLib.dll";
+        var path = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + "\\..\\rml_libs\\VarjoLib.dll";
         if (LoadLibrary(path) == IntPtr.Zero)
         {
             UniLog.Error(string.Concat("Unable to load library ", path));
