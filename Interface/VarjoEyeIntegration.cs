@@ -48,7 +48,7 @@ public class VarjoEyeIntegration : ResoniteMod
 
 	public override string Name => "VarjoEyeIntegration";
 	public override string Author => "dfgHiatus + Wolf Seisenbacher";
-	public override string Version => "8.20.25.1810";
+	public override string Version => "2.0.0";
 	public override string Link => "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking";
 
 	public override void OnEngineInit()
