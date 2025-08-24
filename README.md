@@ -23,3 +23,5 @@ If you want to verify that the mod is working you can check your Resonite logs, 
 ### Credits
 
 To everyone who helped me test this, thank you so much! And thanks to [m3gagluk](https://github.com/m3gagluk)'s for their [VarjoCompanion](https://github.com/m3gagluk/VarjoCompanion) and [Geenz](https://github.com/Geenz) for the SDK 3.5 refactor.
+
+Original mod created by DfgHaitus!
